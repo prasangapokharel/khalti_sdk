@@ -18,6 +18,8 @@ Use these credentials for testing in the sandbox environment:
 | Test MPIN | `1111`
 | Test OTP | `987654`
 | Secret Key | `live_secret_key_68791341fdd94846a146f0457ff7b455`
+| Public Key | `test_public_key_dc74e0fd57cb46cd93832aee0a390234`
+
 
 ## ⚙️ Configuration
 
