@@ -85,8 +85,8 @@ try {
         'purchase_order_id' => 'ORDER-123',
         'purchase_order_name' => 'Test Order',
         'customer_info' => [
-            'name' => 'John Doe',
-            'email' => 'john@example.com',
+            'name' => 'Prasanga Raman Pokharel',
+            'email' => 'prasanga@gmail.com',
             'phone' => '9800000000'
         ]
     ];
