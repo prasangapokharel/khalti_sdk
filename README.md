@@ -50,6 +50,16 @@ return [
     'logLevel' => 'info'
 ];
 ```
+## 🧪 Test Credentials
+
+Use these credentials for testing in the sandbox environment:
+
+| Credential | Value
+|-----|-----
+| Test Phone Number | `9800000001`
+| Test MPIN | `1111`
+| Test OTP | `987654`
+| Secret Key | `live_secret_key_68791341fdd94846a146f0457ff7b455`
 
 ## 🔍 Usage
 
@@ -224,16 +234,6 @@ Log levels:
 - `critical`: Critical conditions
 
 
-## 🧪 Test Credentials
-
-Use these credentials for testing in the sandbox environment:
-
-| Credential | Value
-|-----|-----
-| Test Phone Number | `9800000001`
-| Test MPIN | `1111`
-| Test OTP | `987654`
-| Secret Key | `live_secret_key_68791341fdd94846a146f0457ff7b455`
 
 
 ## 🤝 Contributing
