@@ -1,15 +1,6 @@
 ### Khalti PHP SDK
 
-[
-
-](https://packagist.org/packages/khalti/php-sdk)
-[
-
-](https://packagist.org/packages/khalti/php-sdk)
-[
-
-](https://github.com/prasangapokharel/khalti_sdk/blob/main/LICENSE)
-
+https://packagist.org/packages/khalti/php-sdk
 A comprehensive PHP SDK for integrating Khalti Payment Gateway into your PHP applications.
 
 ## 📋 Table of Contents
