@@ -1,8 +1,6 @@
 ### Khalti PHP SDK
 A comprehensive PHP SDK for integrating Khalti Payment Gateway into your PHP applications. Developed by www.prasangapokharel.com.np
 
-
-
 ## 🚀 Installation
 
 ### Via Composer
@@ -10,6 +8,16 @@ A comprehensive PHP SDK for integrating Khalti Payment Gateway into your PHP app
 ```shellscript
 composer require khalti/php-sdk
 ```
+## 🧪 Test Credentials
+
+Use these credentials for testing in the sandbox environment:
+
+| Credential | Value
+|-----|-----
+| Test Phone Number | `9800000001`
+| Test MPIN | `1111`
+| Test OTP | `987654`
+| Secret Key | `live_secret_key_68791341fdd94846a146f0457ff7b455`
 
 ## ⚙️ Configuration
 
@@ -50,16 +58,6 @@ return [
     'logLevel' => 'info'
 ];
 ```
-## 🧪 Test Credentials
-
-Use these credentials for testing in the sandbox environment:
-
-| Credential | Value
-|-----|-----
-| Test Phone Number | `9800000001`
-| Test MPIN | `1111`
-| Test OTP | `987654`
-| Secret Key | `live_secret_key_68791341fdd94846a146f0457ff7b455`
 
 ## 🔍 Usage
 
