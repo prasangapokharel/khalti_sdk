@@ -458,4 +458,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please create an issue on GitHub or contact [support@khalti.com](mailto:support@khalti.com).
+If you encounter any issues or have questions, please create an issue on GitHub or contact [prasangaramanpokharel@gmail.com](mailto:prasangaramanpokharel@gmail.com).
