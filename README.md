@@ -1,5 +1,5 @@
 ### Khalti PHP SDK
-A comprehensive PHP SDK for integrating Khalti Payment Gateway into your PHP applications. Developed by www.prasangapokharel.com.np
+A simple and easy PHP SDK for integrating Khalti Payment Gateway into your PHP applications. Developed by www.prasangapokharel.com.np
 
 ## 🚀 Installation
 
